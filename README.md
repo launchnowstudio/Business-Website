@@ -16,7 +16,7 @@ This repository contains a sample business website built by **Launch Now Studio*
 - Easy communication setup
 
 ## Live Demo
-👉 https://launchnowstudio.netlify.app
+👉 https://lns-business-website.vercel.app/
 
 ## Contact
 📧 studiolaunchnow@gmail.com  
